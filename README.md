@@ -1,1 +1,1 @@
-# Python-HackerRank
+## Adjunto de ejercicios realizados en Python-HackerRank
